@@ -35,6 +35,18 @@ The `takedawn` branch, the toolkit of the
 the Linux and Android hosts, the settings overlay, frame pacing and the port's
 picture and sound options.
 
+### [Naitrate](https://github.com/Naitrate)
+Holding flips to a host grid at the display's rate when a title asks for it
+(#3), the toolkit half of Takedawn's High refresh rate.
+
+### [jillsandwich1998](https://github.com/jillsandwich1998)
+The mouse cursor that hides itself after a short idle time and on key or
+controller input (#2).
+
+### [d-b-c-e](https://github.com/d-b-c-e)
+Not passing `FILE_NO_INTERMEDIATE_BUFFERING` to the host, which broke reads
+on drives with 4K sectors (#1).
+
 ---
 
 ## Contributors
